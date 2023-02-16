@@ -1,4 +1,4 @@
-# HeyU-
+# HeyU,Can you help me!
 Crazy ideas of mine.If someone get something from it,great!
 
 ## Ideas Focuses
