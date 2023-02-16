@@ -5,8 +5,8 @@ Crazy ideas of mine.If someone get something from it,great!
 Breakthrough stepbystep newdirection
 
 ## Ideas Incubation
-date 	| Ideas | status
+date 	| Ideas | description | status
 ----|----|----
-2023/2/14 |RFID牙齿芯片|crazy
+2023/2/14 |RFID inside tooth|making unique individual tooth|20%
 
  
